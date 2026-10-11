@@ -1,0 +1,25 @@
+# Simulation artifacts & caches
+work/
+transcript
+*.wlf
+*.mti
+*.mpf
+*.vst
+*.log
+*.vsim*
+
+# Compilation and binary artifacts
+build/
+*.o
+*.bin
+*.elf
+*.dump
+*.hex
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
